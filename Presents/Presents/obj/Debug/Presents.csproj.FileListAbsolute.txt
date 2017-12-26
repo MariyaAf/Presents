@@ -1,0 +1,7 @@
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\bin\Debug\Presents.exe.config
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\bin\Debug\Presents.exe
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\bin\Debug\Presents.pdb
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\obj\Debug\Presents.csprojResolveAssemblyReference.cache
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\obj\Debug\Presents.csproj.CoreCompileInputs.cache
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\obj\Debug\Presents.exe
+C:\Users\mariya\Documents\GitHub\Presents\Presents\Presents\obj\Debug\Presents.pdb
