@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace Presents
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            User user = new User(
+                       "Петр",
+                       1000,
+                       500
+                   );
         }
     }
 }
