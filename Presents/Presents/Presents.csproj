@@ -42,10 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Casing.cs" />
+    <Compile Include="Eau_de_Toilette.cs" />
     <Compile Include="Informer.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shampoo.cs" />
+    <Compile Include="Slippers.cs" />
+    <Compile Include="Socks.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
